@@ -1,0 +1,4 @@
+top_inputs a b c
+AND d e f
+AND e a b
+NOT f c
